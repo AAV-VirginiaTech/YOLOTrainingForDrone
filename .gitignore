@@ -1,0 +1,10 @@
+# .gitignore
+
+# Python virtual environment
+venv/
+.venv/
+
+#Stuff we don't want in the colab project
+config.yaml
+output/*
+
